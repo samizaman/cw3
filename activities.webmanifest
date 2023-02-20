@@ -4,8 +4,8 @@
   "description": "An online store for after school activities",
   "icons": [
     {
-      "src": "images/icon.png",
-      "sizes": "96x96",
+      "src": "images/app-icon.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
